@@ -1,9 +1,9 @@
 {
-  "name": "brand-klin",
+  "name": "mango-desk-frontend",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://hasanhashmi1.github.io/Mango_Desk_Project/",
+  "homepage": "https://hasanhashmi1.github.io/mango_desk_frontend/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
