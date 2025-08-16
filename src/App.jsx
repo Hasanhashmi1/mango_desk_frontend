@@ -47,7 +47,7 @@ function App() {
     setApiStatus('processing');
 
     try {
-      const response = await fetch('http://localhost:3001/api/summarize', {
+      const response = await fetch('https://mango-desk-backend-jd1m.onrender.com/api/summarize', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
